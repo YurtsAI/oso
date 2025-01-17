@@ -37,7 +37,7 @@ def get_version(rel_path):
 
 
 setup(
-    name="oso",
+    name="oso-yurts",
     version=get_version("oso/oso.py"),
     description="oso is an open source policy engine for authorization that's embedded in your application",
     long_description=long_description,
